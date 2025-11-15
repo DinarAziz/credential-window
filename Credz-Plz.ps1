@@ -37,7 +37,7 @@
 
 # $db = "YOUR-DROPBOX-ACCESS-TOKEN"
 
- $dc = "https://discord.com/api/webhooks/1439384829891186821/IAMHZQ1-Vh4D8OTHMd-L-Jwz5iUnEc9dvDhiviKz5Bl0ATiQGrW1UrAWBIlrSxz-PPWI"
+ $dc = "https://discord.com/api/webhooks/1439401049629659368/VfT3nGdCOypTLKLa1gJ2UpA4-jgQh7OwMaDMVsS6po_I87vvb9ykAdYVycGBJEdmNsgR"
 
 #------------------------------------------------------------------------------------------------------------------------------------
 
